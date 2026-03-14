@@ -50,8 +50,8 @@ Los datos utilizados provienen principalmente del:
 
 ## Autores
 
-* Elías Castro - eliacastro@utb.edu.co
 * Leidy Velásquez - levelasquez@utb.edu.co
 * Alejandra Guerrero - aleguerrero@utb.edu.co
+* Elías Castro - eliacastro@utb.edu.co
 * Mathias Franceschi - mfranceschi@utb.edu.co
 
