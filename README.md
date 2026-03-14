@@ -62,5 +62,4 @@ Proyecto académico desarrollado por:
 * Alejandra Guerrero - aleguerrero@utb.edu.co
 * Mathias Franceschi - mfranceschi@utb.edu.co
 
-Universidad Tecnológica de Bolívar - Curso: Ciencia de Datos
-Marzo 2026
+Universidad Tecnológica de Bolívar -  2026
