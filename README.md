@@ -1,16 +1,13 @@
 # Felicidad en Colombia – Análisis de Datos 
 
-Este proyecto es una página web desarrollada como parte del curso de **Ciencia de Datos** en la **Universidad Tecnológica de Bolívar (UTB)**.
-El objetivo es analizar si la percepción cultural de Colombia como un país feliz coincide con los indicadores reales de bienestar y calidad de vida.
+Este proyecto explora la relación entre la percepción cultural de la felicidad en Colombia y los factores estructurales que influyen en el bienestar de la población. A través de análisis de datos y visualización interactiva, la página presenta una narrativa que contrasta la reputación del país como una sociedad optimista con los indicadores que realmente influyen en la calidad de vida.
 
 La página combina **análisis de datos, visualización gráfica y narrativa explicativa** para explorar los factores que influyen en la felicidad en Colombia.
-
 
 
 ## Objetivo del proyecto
 
 Analizar la relación entre la percepción cultural de felicidad en Colombia y los factores estructurales que determinan el bienestar de la población, utilizando datos internacionales y visualizaciones comparativas.
-
 
 
 ## Contenido de la página
@@ -44,13 +41,11 @@ La página web está organizada en varias secciones:
 * **Python** (para el análisis de datos y generación de gráficos)
 
 
-
 ## Fuente de datos
 
 Los datos utilizados provienen principalmente del:
 
 * **World Happiness Report**
-
 
 
 ## Autores
@@ -62,4 +57,3 @@ Proyecto académico desarrollado por:
 * Alejandra Guerrero - aleguerrero@utb.edu.co
 * Mathias Franceschi - mfranceschi@utb.edu.co
 
-Universidad Tecnológica de Bolívar -  2026
