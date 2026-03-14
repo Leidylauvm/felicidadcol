@@ -45,7 +45,7 @@ La página web está organizada en varias secciones:
 
 Los datos utilizados provienen principalmente del:
 
-* **World Happiness Report**
+* **World Happiness Report 2025**
 
 
 ## Autores
